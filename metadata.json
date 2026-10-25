@@ -1,0 +1,6 @@
+{
+  "name": "World Cricket Championship",
+  "description": "Broadcast-grade cricket championship platform featuring live ball-by-ball updates, tournament fixtures, national squads, player career metrics, and editorial coverage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
